@@ -61,6 +61,5 @@ The code for source domain training is modified from [BEAL](https://github.com/e
 ## Citation
 ```
 1. Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng, Pheng-Ann, Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation, International Conference on Medical Image Computing and Computer-Assisted Intervention, 2019, pp.102--110.
-2. Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
-```
+2. Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
 
