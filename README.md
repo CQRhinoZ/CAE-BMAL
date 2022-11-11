@@ -9,7 +9,7 @@ This is a pytorch implementation of Convolutional Autoencoder Joint Boundary and
 Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
 
 <p align="center">
-  <img src="figure/framework.png">
+  <img src="https://github.com/CQRhinoZ/CAE-BMAL/figure/framework.png">
 </p>
 
 ## Installation
