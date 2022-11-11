@@ -21,7 +21,7 @@ Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joi
 git clone https://github.com/CQRhinoZ/CAE-BMAL
 ```
 
-## Directory Structure
+## Project Structure
 
 - dataloaders: Load source domain, target domain and enhanced domain data
 - figure: Framework figure of our paper
@@ -33,7 +33,7 @@ git clone https://github.com/CQRhinoZ/CAE-BMAL
 - re_train.py: main file for training(Some omitted part will be released when this work is published)
 - test.py: main file for testing
 
-## Installation
+## Dependency
 
 After installing the dependency:
 
