@@ -54,12 +54,10 @@ After installing the dependency:
 ## Test
 - Finally, specify the data path in `./test.py` and then test it.
 
-## Acknowledgement
-
-The code for source domain training is modified from [BEAL](https://github.com/emma-sjwang/BEAL/).
 
 ## Citation
 ```
+The code for source domain training is modified from [BEAL](https://github.com/emma-sjwang/BEAL/).
 1. Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng, Pheng-Ann, Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation, International Conference on Medical Image Computing and Computer-Assisted Intervention, 2019, pp.102--110.
 2. Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
 ```
