@@ -6,7 +6,7 @@ This is a pytorch implementation of Convolutional Autoencoder Joint Boundary and
 
 ## Architecture
 
-<font color="blue">Zhang X, Song J, Wang C and Zhou Z (2022) Convolutional autoencoder joint boundary and mask adversarial learning for fundus image segmentation. Front. Hum. Neurosci. 16:1043569. doi: 10.3389/fnhum.2022.1043569}</font>
+[Zhang X, Song J, Wang C and Zhou Z (2022) Convolutional autoencoder joint boundary and mask adversarial learning for fundus image segmentation. Front. Hum. Neurosci. 16:1043569.](https://doi.org/10.3389/fnhum.2022.1043569) 
 
 <p align="center">
   <img src="https://github.com/CQRhinoZ/CAE-BMAL/blob/main/figure/framework.png">
