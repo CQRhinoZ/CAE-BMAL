@@ -6,7 +6,7 @@ This is a pytorch implementation of Convolutional Autoencoder Joint Boundary and
 
 ## Architecture
 
-Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
+Zhang X, Song J, Wang C and Zhou Z (2022) Convolutional autoencoder joint boundary and mask adversarial learning for fundus image segmentation. Front. Hum. Neurosci. 16:1043569. doi: 10.3389/fnhum.2022.1043569
 
 <p align="center">
   <img src="https://github.com/CQRhinoZ/CAE-BMAL/blob/main/figure/framework.png">
@@ -59,7 +59,7 @@ After installing the dependency:
 ```
 The code for source domain training is modified from [BEAL](https://github.com/emma-sjwang/BEAL/).
 1. Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng, Pheng-Ann, Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation, International Conference on Medical Image Computing and Computer-Assisted Intervention, 2019, pp.102--110.
-2. Xu Zhang, Jiaqi Song, Chengrui Wang and Zhen Zhou, Convolutional Autoencoder Joint Boundary and Mask Adversarial Learning for Fundus Image Segmentation, Frontiers In Human Neuroscience(under review)
+2. Zhang X, Song J, Wang C and Zhou Z (2022) Convolutional autoencoder joint boundary and mask adversarial learning for fundus image segmentation. Front. Hum. Neurosci. 16:1043569. doi: 10.3389/fnhum.2022.1043569
 ```
 
 Feel free to contact us:
